@@ -1,20 +1,36 @@
-### Hi there, I'm Hanna! 👋
+# Hi there, I'm Hanna! 👋
 
-I am an aspiring **Data Analyst** based in Slovakia. I have recently completed the **Google Data Analytics Professional Certificate** and I am currently focused on applying my skills in real-world projects while deepening my technical knowledge.
+### 📐 Data Analyst with an Engineering Mindset
+I am a Data Analyst based in **Slovakia** with over 10 years of experience in Civil Engineering. I specialize in transforming complex, messy data into clear, actionable insights using **Python, SQL, and Tableau**.
 
-🌱 **My Current Learning Journey:**
-*   **Python:** I am actively learning Python for data analysis. I feel comfortable with **Pandas** for data manipulation and cleaning. Currently, I am exploring visualization libraries (Matplotlib/Seaborn).
-*   **Business Intelligence:** I have experience creating dashboards in **Tableau**, and my next big goal is to master **Microsoft Power BI**.
 
-🛠 **My Toolbox:**
-*   **Data Analysis:** SQL (BigQuery), Python (Pandas), Excel, Google Sheets.
-*   **Visualization:** Tableau (Basic), Matplotlib (Learning).
-*   **Environment:** Jupyter Notebook.
+### 🛠️ My Tech Stack
 
-📂 **Portfolio Highlights:**
-Check out my pinned repositories below to see my progress:
-*   **Cyclistic Analysis:** My first full Python project (Data cleaning & manipulation).
-*   **Bellabeat Analysis:** A comprehensive case study using SQL for cleaning and Tableau for visualization.
+**💻 Data Processing & Engineering**
+*   **Python:** Pandas, NumPy (Data Cleaning & Manipulation)
+*   **Web Scraping:** Selenium, BeautifulSoup4 (Data Extraction)
+*   **Automation:** Building repeatable ETL scripts
 
-📫 **Let's connect:**
-*   [www.linkedin.com/in/hanna-kovalenko-a04114388]
+**🗄️ Databases & Logic**
+*   **SQL:** Complex Queries, Joins, Window Functions, CTEs (BigQuery, Postgres)
+*   **Excel:** Advanced Formulas, Power Query, Data Validation
+
+**📊 Visualization & BI**
+*   **Tableau:** Interactive Dashboards & Storytelling
+*   **Matplotlib / Seaborn:** EDA & Statistical Visualization
+
+---
+
+### 🚀 What I'm working on right now
+Currently, I am advancing my skills through the **Google Advanced Data Analytics Professional Certificate**, diving deeper into statistical modeling and machine learning concepts.
+
+I am also freelancing on **Upwork**, helping businesses with data cleaning, analysis, and visualization.
+
+---
+
+### 📫 Let's Connect
+I am open to Junior Data Analyst / Data Engineer roles and freelance collaborations.
+
+*   🔗 **LinkedIn:** [Hanna Kovalenko](https://www.linkedin.com/in/hanna-kovalenko-a04114388)
+*   💼 **Upwork:** [My Profile]([(https://www.upwork.com/freelancers/~0129de4f873cffb269])
+
