@@ -8,12 +8,13 @@ I am a Data Analyst based in **Slovakia** with over 10 years of experience in Ci
 
 **💻 Data Processing & Engineering**
 *   **Python:** Pandas, NumPy (Data Cleaning & Manipulation)
-*   **Web Scraping:** Selenium, BeautifulSoup4 (Data Extraction)
+*   **Visualization:** Matplotlib, Seaborn
 *   **Automation:** Building repeatable ETL scripts
+*   **Statistical Modeling:** Scikit-learn, Statsmodels (Linear and Logistic Regression, Hypothesis Testing)
 
 **🗄️ Databases & Logic**
 *   **SQL:** Complex Queries, Joins, Window Functions, CTEs (BigQuery, Postgres)
-*   **Excel:** Advanced Formulas, Power Query, Data Validation
+*   **Excel:** Advanced Formulas, Power Query, Data Validation, Pivot Table
 
 **📊 Visualization & BI**
 *   **Tableau:** Interactive Dashboards & Storytelling
