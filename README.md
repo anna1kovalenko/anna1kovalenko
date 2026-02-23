@@ -29,7 +29,7 @@ I am also freelancing on **Upwork**, helping businesses with data cleaning, anal
 ---
 
 ### 📫 Let's Connect
-I am open to Junior Data Analyst / Data Engineer roles and freelance collaborations.
+I am open to Junior Data Analyst / Scientist roles and freelance collaborations.
 
 *   🔗 **LinkedIn:** [Hanna Kovalenko](https://www.linkedin.com/in/hanna-kovalenko-a04114388)
 
