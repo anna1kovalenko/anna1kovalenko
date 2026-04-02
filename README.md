@@ -20,7 +20,7 @@ Recently, I earned the **Google Advanced Data Analytics Professional Certificate
 *   **Python:** Pandas, NumPy, Scipy, seaborn, Matplotlib, statsmodels, scikit-learn.
 *   **Modeling:** Random Forest, XGBoost, Logistic Regression, Linear Regression, K-means Clustering.
 *   **Statistical Analysis:** Hypothesis Testing (P-values, Confidence Intervals), ANOVA, Tukey’s HSD, A/B Testing.
-*   **Advanced Preprocessing:** Feature Engineering, Data Scaling (Standard/Robust Scaler).
+*   **Advanced Preprocessing:** Feature Engineering, Data Scaling.
 
 ---
 
