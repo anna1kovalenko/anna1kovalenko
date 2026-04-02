@@ -26,12 +26,12 @@ Recently, I earned the **Google Advanced Data Analytics Professional Certificate
 
 ## 📁 Projects
 
-### 🏎 [Employee Retention Analysis (Salifort Motors)](https://github.com/anna1kovalenko/Employee-Attrition-Analysis-))
+### 🏎 [Employee Retention Analysis (Salifort Motors)](https://github.com/anna1kovalenko/Employee-Attrition-Analysis-)
 *   **Goal:** Predict employee attrition and identify churn drivers.
 *   **Approach:** Built a **Random Forest Classifier** optimized for F1-score via `GridSearchCV`.
 *   **Result:** Achieved **98% accuracy** and **91% recall**. Identified "overwork" (high hours/projects) and "tenure crisis" as the primary risks.
 
-### 📊 [Marketing Budget Optimization](https://github.com/anna1kovalenko/Marketing-Budget-Optimization-Regression))
+### 📊 [Marketing Budget Optimization](https://github.com/anna1kovalenko/Marketing-Budget-Optimization-Regression)
 *   **Goal:** Determine the ROI of different media channels.
 *   **Analysis:** Used Multiple Linear Regression and ANOVA to quantify the impact of TV and Radio advertising on total sales volume.
 
