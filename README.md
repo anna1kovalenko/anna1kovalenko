@@ -1,7 +1,7 @@
 # Hi there, I'm Hanna! 👋
 
 ### 📐 Data Analyst with an Engineering Mindset | Google Certified Professional
-I am a Data Analyst based in **Slovakia** with over 10 years of experience in Civil Engineering. I specialize in transforming complex, messy data into clear, actionable insights using **Python, SQL, and Tableau**. 
+I am a Data Analyst based in **Slovakia** with experience in Civil Engineering. I specialize in transforming complex, messy data into clear, actionable insights using **Python, SQL, and Tableau**. 
 
 Recently, I earned the **Google Advanced Data Analytics Professional Certificate**, mastering statistical modeling and machine learning techniques to solve high-stakes business problems.
 
