@@ -26,19 +26,23 @@ Recently, I earned the **Google Advanced Data Analytics Professional Certificate
 
 ## 📁 Projects
 
-### 🏎 [Employee Retention Analysis (Salifort Motors)](https://github.com/anna1kovalenko/Employee-Attrition-Analysis-)
+### 🏎 [Employee Retention Analysis (Salifort Motors)](https://github.com/anna1kovalenko/A-B-Test-Analysis-for-Online-Shooter-Game))
+*   **Goal:** Evaluate the impact of a new game feature on key monetization metrics.
+*   **Approach:** Conducted Hypothesis Testing (T-test) and calculated Confidence Intervals for revenue metrics. Perform **Segmentation Analysis**.
+*   **Result:** The analysis confirmed that the difference between the test and control groups is statistically significant.
+  
+### 🏎 [A/B Test Analysis for Online Shooter Game](https://github.com/anna1kovalenko/Employee-Attrition-Analysis-)
 *   **Goal:** Predict employee attrition and identify churn drivers.
 *   **Approach:** Built a **Random Forest Classifier** optimized for F1-score via `GridSearchCV`.
 *   **Result:** Achieved **98% accuracy** and **91% recall**. Identified "overwork" (high hours/projects) and "tenure crisis" as the primary risks.
 
 ### 📊 [Marketing Budget Optimization](https://github.com/anna1kovalenko/Marketing-Budget-Optimization-Regression)
 *   **Goal:** Determine the ROI of different media channels.
-*   **Analysis:** Used Multiple Linear Regression and ANOVA to quantify the impact of TV and Radio advertising on total sales volume.
+*   **Approach:** Used Multiple Linear Regression and ANOVA to quantify the impact of TV and Radio advertising on total sales volume.
 
 ---
 
 ### 📫 Let's Connect
 I am open to Junior Data Analyst / Scientist roles and freelance collaborations.
 
-*   🔗 **LinkedIn:** [Hanna Kovalenko](https://www.linkedin.com/in/hanna-kovalenko-a04114388)
 
